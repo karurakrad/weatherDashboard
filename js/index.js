@@ -1,5 +1,5 @@
 // Import the UI module for handling UI interactions
-import { handleSearch } from './ui';
+import { handleSearch } from './ui.js';
 
 // Add an event listener to the search button when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
